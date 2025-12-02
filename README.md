@@ -14,16 +14,6 @@ This project focuses on applying fundamental programming concepts, including:
 - C++
 - <iostream>
 
-## 🚀 Getting Started
-### Prerequisites
-- Any C++ compiler (GCC / Clang / MSVC)
-- (Optional) Visual Studio (recommended if you use the included `.sln`)
-
-### Run (Console)
-1. Clone the repository
-2. Open the project (or compile the `.cpp` file)
-3. Run the program and follow the on-screen instructions
-
 ## 🎮 How It Works (Logic)
 The program:
 1. Takes grades as input
