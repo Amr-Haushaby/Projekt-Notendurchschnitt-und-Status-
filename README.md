@@ -12,7 +12,6 @@ This project focuses on applying fundamental programming concepts, including:
 
 ## 🛠️ Built With
 - C++
-- <iostream>
 
 ## 🎮 How It Works (Logic)
 The program:
@@ -21,13 +20,12 @@ The program:
 3. Checks rules/thresholds
 4. Prints the final status
 
-## ✅ What I Learned
-- Handling user input safely
-- Writing readable condition logic
-- Splitting code into functions for clarity
+## ✅ What I Practiced
+- Taking multiple inputs and validating them
+- Calculating averages with clean arithmetic
+- Using conditions to determine the final status
+- Organizing the solution into small functions
+- Printing clear, user-friendly output in the console
 
 ## 📌 Notes
 This is a learning project written as part of my C++ practice journey.
-
-## 📄 License
-This project is for learning purposes.
